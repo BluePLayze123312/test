@@ -1,14 +1,8 @@
 name: test
 main: MangoTheDev/test/Main
 version: 1.0
-api: 3.0.0-ALPHA11
+api: 3.0.0-ALPHA11&
 load: POSTWORLD
 author: MangoTheDev
-description: test plugin.
-commands:
-  coda:
-    permmission: coda.command
-permissions:
- coda.command:
-    defualt: true
+description: test plugin
  ...
