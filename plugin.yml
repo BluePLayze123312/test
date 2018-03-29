@@ -9,6 +9,6 @@ commands:
   coda:
     permmission: coda.command
 permissions:
- coda.command
+ coda.command:
     defualt: true
  ...
