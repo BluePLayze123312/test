@@ -10,5 +10,5 @@ commands:
     permmission: coda.command
 permissions:
  coda.command
- defualt: true
+    defualt: true
  ...
